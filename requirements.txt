@@ -1,0 +1,9 @@
+pyti
+binance
+requests
+python-telegram-bot
+numpy
+telegram
+python-telegram-bot
+dateparser
+
